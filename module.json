@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Dungeons-Marcadores",
+    "options": {
+        "niceName": "Marcadores para Dungeons",
+        "guiName": "(Dungeon-Marcadores)"
+    },
+    "author": "ZC/Maura",
+    "description": "Marcadores para dungeons de TERA",
+    "servers": ["https://raw.githubusercontent.com/Maura-Tera/Marcadores-CS-FA/master/"],
+    "supportUrl": "https://github.com/Maura-Tera/Marcadores-CS-FA/issues",
+    "version": "92.04"
+}
